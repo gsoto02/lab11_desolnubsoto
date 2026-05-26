@@ -1,4 +1,4 @@
-# CRUD Contactos — Lab 11 | Jfarfán 2026
+# CRUD Contactos — Lab 11 | Gsoto 2026
 
 Aplicación web de gestión de contactos con Flask + SQLite.
 Funciona igual en Windows y Debian (AWS EC2).
